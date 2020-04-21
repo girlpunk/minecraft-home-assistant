@@ -9,7 +9,7 @@ The Minecraft Server integration lets you retrieve information from a Minecraft 
 
 ##### The server must be version 1.7 or higher, since older versions don't expose any information.
 
-##Configuration via the frontend
+## Configuration via the frontend
 
 In the settings go to Integrations, click on the + sign to add an integration and click on "Minecraft Server (Updated)".
 After completing the configuration flow, the Minecraft Server integration will be available.
