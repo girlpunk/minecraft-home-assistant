@@ -1,0 +1,5 @@
+# This is only required for development. HASS will handle everything when installed for production use.
+
+homeassistant
+aiodns==2.0.0
+mcstatus==2.3.0
