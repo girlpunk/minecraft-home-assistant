@@ -2,7 +2,7 @@
   "domain": "minecraft_server",
   "name": "Minecraft Updated - Updated",
   "config_flow": true,
-
+  "version": "1.0.1",
   "documentation": "https://github.com/cyberjacob/minecraft-home-assistant",
   "requirements": [
     "aiodns==2.0.0",
